@@ -1,0 +1,93 @@
+{
+   "metadata": {
+    "title": "Portfolio",
+    "description": "Professional Portfolio - Web & Mobile Development"
+  },
+    "login": {
+    "title": "Sign In",
+    "welcome": "Welcome to Dashboard",
+    "email": "Email Address",
+    "password": "Password",
+    "remember": "Remember me",
+    "forgot": "Forgot password?",
+    "login": "Sign In",
+    "loading": "Signing in...",
+    "error": "Login failed",
+    "back": "Back to Home"
+  },
+
+  "home": {
+    "greeting": "Hi, I'm",
+    "role": "Full Stack Developer | Building amazing digital experiences",
+    "viewWork": "View My Work",
+    "contactMe": "Contact Me",
+    "photo": "Your Photo"
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "projects": "Projects",
+    "team": "Team",
+    "contact": "Contact"
+  },
+  "services": {
+    "title": "Services",
+    "subtitle": "What I can do for you",
+    "web": "Web Development",
+    "webDesc": "Building responsive and performant web applications",
+    "mobile": "Mobile Apps",
+    "mobileDesc": "Cross-platform mobile applications",
+    "design": "UI/UX Design",
+    "designDesc": "Beautiful and intuitive user interfaces",
+    "performance": "Performance",
+    "performanceDesc": "Fast and optimized applications"
+  },
+  "projects": {
+    "title": "Projects",
+    "subtitle": "Some of my recent work"
+  },
+  "team": {
+    "title": "Our Team",
+    "subtitle": "Meet the people behind the work"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Get in touch with me",
+    "name": "Your Name",
+    "email": "Your Email",
+    "message": "Your Message",
+    "send": "Send Message",
+    "sent": "Message sent!"
+  },
+  "footer": {
+    "description": "Building amazing digital experiences.",
+    "quickLinks": "Quick Links",
+    "connect": "Connect",
+    "rights": "© 2026 Portfolio. All rights reserved."
+  },
+    "dashboard": {
+    "welcome": "Welcome",
+    "overview": "Dashboard overview",
+    "projects": "Projects",
+    "services": "Services",
+    "team": "Team",
+    "partners": "Partners",
+    "settings": "Settings",
+    "search": "Search...",
+    "logout": "Logout",
+    "recentProjects": "Recent Projects",
+    "viewAll": "View All",
+    "storage": "Storage",
+    "used": "Used",
+    "files": "Files",
+    "folders": "Folders",
+    "dashboard": "Dashboard",
+    "userInfo": "User Information",
+    "email": "Email",
+    "verified": "Verified",
+    "created": "Created",
+    "lastLogin": "Last Login"
+
+  }
+}
+
